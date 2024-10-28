@@ -1,0 +1,12 @@
+{
+    "name": "rmmz-game",
+    "main": "index.html",
+    "chromium-args": "--force-color-profile=srgb --disable-devtools",
+    "window": {
+        "title": "タイツィング",
+        "width": 357,
+        "height": 667,
+        "position": "center",
+        "icon": "icon/icon.png"
+    }
+}
